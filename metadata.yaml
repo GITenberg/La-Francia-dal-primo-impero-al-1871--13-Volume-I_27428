@@ -1,0 +1,38 @@
+_repo: La-Francia-dal-primo-impero-al-1871--13-Volume-I_27428
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ruta, Enrico
+    birthdate: 1869
+    deathdate: 1939
+    gutenberg_agent_id: '32687'
+    url: http://www.gutenberg.org/2009/agents/32687
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Treitschke, Heinrich von
+    aliases:
+    - Treitschke, Heinrich Gotthard von
+    - Von Treitschke, Heinrich
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '25652'
+    url: http://www.gutenberg.org/2009/agents/25652
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Treitschke
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2008-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27428'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 1789-1900'
+- !lcc 'DC'
+title: La Francia dal primo impero al 1871. Volume 1
+url: http://www.gutenberg.org/ebooks/27428
