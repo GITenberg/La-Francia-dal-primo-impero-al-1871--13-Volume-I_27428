@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25652
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Treitschke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27428#La-Francia-dal-primo-impero-al-1871--13-Volume-I
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2008-12-06'
 gutenberg_type: Text
